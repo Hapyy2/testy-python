@@ -1,1 +1,1 @@
-### Testy automatyczne w pythona przy użyciu github actions
+### Testy automatyczne w pythonie przy użyciu github actions
